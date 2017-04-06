@@ -1,3 +1,14 @@
+/*
+* @Author: zwyos
+* @E-mail: so2os@mail.ustc.edu.cn
+* @Date:   2017-04-02 20:57:29
+* @Version: v1.0
+* @Quesetion:  递归形式的数据翻转
+* @Summary:  只需要考虑好一次是如何翻转的就好，剩下的是递归调用了
+* @Last Modified by:   zwyos
+* @Last Modified time: 2017-04-06 16:45:05
+*/
+
 #include <iostream>
 #include <iterator>
 
